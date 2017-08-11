@@ -1,2 +1,0 @@
-# Rickshawala
-Online cab booking
